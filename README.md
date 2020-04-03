@@ -1,2 +1,4 @@
 # Computer-Vision-Basics
-Basics Operations on Image
+Basic Operations on Image
+Install Neccessary Module and run the code
+
